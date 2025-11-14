@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "files.eol": "\n",
+  "files.trimTrailingWhitespace": true,
+  "lean4.serverExecutablePath": "lean",
+  "lean4.lakePath": "lake",
+  "lean4.progressMessages": true,
+  "lean4.typesInTooltip": true,
+  "editor.rulers": [100]
+}

@@ -1,0 +1,17 @@
+name: Feature request
+description: Propose a theorem/module or improvement
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation
+      description: Why is this useful/reusable?
+      placeholder: Which papers or downstream modules benefit?
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Proposed module path, names, and minimal statements.
